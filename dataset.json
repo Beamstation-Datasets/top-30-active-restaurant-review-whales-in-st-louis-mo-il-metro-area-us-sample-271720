@@ -1,0 +1,22 @@
+{
+  "base_price": 1295,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "sales",
+  "config_description": "--High-Volume, Active targets--\n\nPopular restaurants sitting in the Top 30% of their local market for proven foot traffic and review volume within the last 90 days and a market scope of 1km.\n\nThese are the highest-velocity, actively transacting accounts for payment processing, POS systems, and supply chain sales.\n\nValidated by an \"Active Heartbeat\" signal.",
+  "config_name": "Top 30% Active Restaurant Review Whales in St. Louis, MO-IL Metro Area, US",
+  "export_job_id": "17b90352-96d7-4c82-b66a-fee95c11c3e1",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 271720,
+  "location_name": "St. Louis, MO-IL",
+  "location_type": "metro",
+  "repo_name": "top-30-active-restaurant-review-whales-in-st-louis-mo-il-metro-area-us-sample-271720",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/271720/beamstation_271720_restaurants-us-stlouismoil_SAMPLE_DIST.csv",
+  "sample_pct": 1.09,
+  "sample_records": 10,
+  "sample_sha256": "c957863ac5f021401ccf02ee5839a15f445428c3018f04d265657f5e613956a9",
+  "sample_size_bytes": 57343,
+  "total_records": 918,
+  "updated_at": "2026-04-01T00:39:17.135121+00:00"
+}
