@@ -1,6 +1,6 @@
 # Top 30% Active Restaurant Review Whales in St. Louis, MO-IL Metro Area, US
 
-> Free BeamStation sample export with 10 rows and masked direct-contact fields.
+> Free BeamStation sample export with 117 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `271720` |
 | Location | St. Louis, MO-IL |
 | Category | Restaurants |
-| Full dataset size | 918 records |
-| Free sample size | 10 records (1.09%) |
-| Last export | 2026-04-01T00:39:17.135121+00:00 |
+| Full dataset size | 1,172 records |
+| Free sample size | 117 records (9.98%) |
+| Last export | 2026-04-15T02:23:35.937068+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/top-30-active-restaurant-review-whales-in-st-louis-mo-il-metro-area-us-sample-271720/releases/download/sample-latest/beamstation_271720_restaurants-us-stlouismoil_SAMPLE_DIST.csv) |
 
 ## What is in this sample
