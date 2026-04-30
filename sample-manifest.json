@@ -1,12 +1,12 @@
 {
-  "export_job_id": "018c1987-f47f-4d01-8826-a1440ef26abb",
+  "export_job_id": "1c806441-06d9-46c3-bfeb-21259698b38d",
   "id_short": 271720,
-  "published_at": "2026-04-22T19:28:32Z",
+  "published_at": "2026-04-30T07:12:11Z",
   "repo_name": "top-30-active-restaurant-review-whales-in-st-louis-mo-il-metro-area-us-sample-271720",
   "sample_asset_name": "beamstation_271720_restaurants-us-stlouismoil_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/271720/beamstation_271720_restaurants-us-stlouismoil_SAMPLE_DIST.csv",
-  "sample_records": 129,
-  "sample_sha256": "e35b58b1909a9195c6fbd2ca2f8f875fb5bf09e8ba0892fce388fbfdb23a8925",
-  "sample_size_bytes": 523588,
-  "total_records": 1290
+  "sample_records": 138,
+  "sample_sha256": "a45013ccf8c7e0a90b198a04fbaa25cf09ef9b72a8c93d980138dadbe6f5dad8",
+  "sample_size_bytes": 532097,
+  "total_records": 1385
 }
